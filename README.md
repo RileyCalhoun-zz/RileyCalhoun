@@ -1,6 +1,6 @@
 ### Hi there, I'm Riley.
+This is where I post open-source code and break things.
+- I'm current working on something cool
+- Learning Python
+- Contact me on twitter! [twitter]
 
-## I'm a Developer!
-- I'm currently working on a [Java Project][github]
-- 2020 Goals:  Contribute more to Open Source projects
-- Looking to collaborate with other developers
