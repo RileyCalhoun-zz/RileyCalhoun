@@ -1,5 +1,5 @@
 # Hi there, I'm Riley.
-This is where I post open-source code and break things.
+This is where I post my open-source code.
 
 ## Connect with me!
 - [YouTube][youtube]
