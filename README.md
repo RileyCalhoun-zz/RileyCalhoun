@@ -1,6 +1,5 @@
 # Hi there, I'm Riley.
-This is where I post my open-source code and non-work related projects. 
-Work Related Projects -> https://github.com/RiftLLC
+This is where I post my open-source code and non-work related projects.
 
 ## Connect with me!
 - [YouTube][youtube]
